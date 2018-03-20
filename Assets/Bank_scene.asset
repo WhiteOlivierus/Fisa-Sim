@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 740e3a72aec82c147ba72d7ab4df09ee, type: 3}
+  m_Name: Bank_scene
+  m_EditorClassIdentifier: 
+  entries:
+  - id: Bank
+    maxLineId: 13
+    speakers:
+    - Robbin
+    - Susanne
+  lines:
+  - id: 0
+    dialogueEntry: Bank
+    dialogue: 
+    output: 01000000
+    position: {x: 10, y: 10}
+    userData: 
+    speaker: 
+  - id: 1
+    dialogueEntry: Bank
+    dialogue: WOW WAT EEN KUT VISSA
+    output: 02000000
+    position: {x: 139, y: 10}
+    userData: image:0
+    speaker: 
+  - id: 2
+    dialogueEntry: Bank
+    dialogue: JA ECHT HE
+    output: 03000000
+    position: {x: 287, y: 10}
+    userData: image:1
+    speaker: 
+  - id: 3
+    dialogueEntry: Bank
+    dialogue: WAT EEN DUMP
+    output: 04000000
+    position: {x: 437, y: 10}
+    userData: image:2
+    speaker: 
+  - id: 4
+    dialogueEntry: Bank
+    dialogue: STOP MET SCHREEUWEN
+    output: 05000000
+    position: {x: 587, y: 10}
+    userData: image:3
+    speaker: 
+  - id: 5
+    dialogueEntry: Bank
+    dialogue: SORRY HARDSTYLE IS TE HARD
+    output: 06000000
+    position: {x: 737, y: 10}
+    userData: image:4
+    speaker: 
+  - id: 6
+    dialogueEntry: Bank
+    dialogue: JAA MEE EENS
+    output: 07000000
+    position: {x: 887, y: 10}
+    userData: image:5
+    speaker: 
+  - id: 7
+    dialogueEntry: Bank
+    dialogue: WOW WAT DOE JE
+    output: 0800000009000000
+    position: {x: 1037, y: 10}
+    userData: image:6
+    speaker: 
+  - id: 8
+    dialogueEntry: Bank
+    dialogue: YES
+    output: 0c000000
+    position: {x: 1184, y: 105}
+    userData: image:10
+    speaker: 
+  - id: 9
+    dialogueEntry: Bank
+    dialogue: NON
+    output: 0a000000
+    position: {x: 1186, y: 13}
+    userData: image:7
+    speaker: 
+  - id: 10
+    dialogueEntry: Bank
+    dialogue: FUCK OFF
+    output: 0b000000
+    position: {x: 1336, y: 13}
+    userData: image:8
+    speaker: 
+  - id: 11
+    dialogueEntry: Bank
+    dialogue: CREEP
+    output: 00000000
+    position: {x: 1486, y: 13}
+    userData: image:9
+    speaker: 
+  - id: 12
+    dialogueEntry: Bank
+    dialogue: LEKKER DING
+    output: 00000000
+    position: {x: 1334, y: 105}
+    userData: image:11
+    speaker: 

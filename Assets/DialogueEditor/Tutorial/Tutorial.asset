@@ -58,14 +58,14 @@ MonoBehaviour:
     dialogueEntry: TutorialStart
     dialogue: I would like to know more about the usage in scripts
     output: 0c000000
-    position: {x: 620, y: 108}
+    position: {x: 622, y: 15}
     userData: 2
     speaker: User
   - id: 6
     dialogueEntry: TutorialStart
     dialogue: I don't need more information. I already know enough.
     output: 
-    position: {x: 434, y: 115}
+    position: {x: 619, y: 118}
     userData: 3
     speaker: User
   - id: 7
@@ -114,7 +114,7 @@ MonoBehaviour:
     dialogueEntry: TutorialStart
     dialogue: The script to use the dialogue system is divided into three parts.
     output: 0d000000
-    position: {x: 770, y: 108}
+    position: {x: 772, y: 121}
     userData: 
     speaker: Tutorial
   - id: 13
@@ -122,7 +122,7 @@ MonoBehaviour:
     dialogue: The first part is to load the correct dialogue file. This is done using
       DialogueManager.LoadDialogueFile. This is usualy done only once per scene/script.
     output: 0f000000
-    position: {x: 920, y: 108}
+    position: {x: 915, y: 119}
     userData: image:6
     speaker: Tutorial
   - id: 15
@@ -130,14 +130,14 @@ MonoBehaviour:
     dialogue: The next part is to open the correct dialogue. This is done using manager.GetDialogue.
       This function returns an interface to the dialogue itself.
     output: 11000000
-    position: {x: 1059, y: 109}
+    position: {x: 1048, y: 117}
     userData: image:6
     speaker: Tutorial
   - id: 17
     dialogueEntry: TutorialStart
     dialogue: 'The function Start() returns the dialogue to the begining. '
     output: 12000000
-    position: {x: 772, y: 181}
+    position: {x: 1189, y: 113}
     userData: image:6
     speaker: Tutorial
   - id: 18
@@ -145,7 +145,7 @@ MonoBehaviour:
     dialogue: The function GetChoices returns an array of all the choices available.
       If it is a linear conversation, then there will be only one choice returned.
     output: 13000000
-    position: {x: 917, y: 179}
+    position: {x: 1332, y: 109}
     userData: image:7
     speaker: Tutorial
   - id: 19
@@ -153,7 +153,7 @@ MonoBehaviour:
     dialogue: With PickChoice() you select the choice that was made and the conversation
       continues.
     output: 14000000
-    position: {x: 1059, y: 179}
+    position: {x: 1470, y: 107}
     userData: image:7
     speaker: Tutorial
   - id: 20
@@ -161,7 +161,7 @@ MonoBehaviour:
     dialogue: So in a normal situation, you will constantly be doing GetChoices and
       PickChoice to keep the dialogue going.
     output: 03000000
-    position: {x: 1215, y: 181}
+    position: {x: 1599, y: 44}
     userData: 
     speaker: Tutorial
   - id: 21
@@ -179,7 +179,7 @@ MonoBehaviour:
       titlebar is a combobox through which you can select the speaker of the current
       line.
     output: 19000000
-    position: {x: 775, y: -20}
+    position: {x: 768, y: -11}
     userData: image:5
     speaker: Tutorial
   - id: 25
@@ -188,7 +188,7 @@ MonoBehaviour:
       be supplied to the script when the line is reached. This can be used to supply
       metadata such as image names to the scripts.
     output: 1a000000
-    position: {x: 926, y: -21}
+    position: {x: 914, y: -9}
     userData: image:5
     speaker: Tutorial
   - id: 26
@@ -198,7 +198,7 @@ MonoBehaviour:
       the right is used to create a new node. The newly created node will be automaticly
       connected to the current node.
     output: 1b000000
-    position: {x: 1076, y: -16}
+    position: {x: 1039, y: -7}
     userData: image:5
     speaker: Tutorial
   - id: 27
@@ -208,6 +208,6 @@ MonoBehaviour:
       from. The '->' button on the right side is used to create new outgoing links.
       The usage is the same as the disconnect button.
     output: 03000000
-    position: {x: 1225, y: -15}
+    position: {x: 1185, y: -5}
     userData: image:5
     speaker: Tutorial
