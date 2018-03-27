@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 740e3a72aec82c147ba72d7ab4df09ee, type: 3}
+  m_Name: Buiten_scene
+  m_EditorClassIdentifier: 
+  entries:
+  - id: Buiten
+    maxLineId: 10
+    speakers:
+    - Susanne
+    - Robbin
+  lines:
+  - id: 0
+    dialogueEntry: Buiten
+    dialogue: 
+    output: 01000000
+    position: {x: 10, y: 10}
+    userData: 
+    speaker: 
+  - id: 1
+    dialogueEntry: Buiten
+    dialogue: Je gaat buiten een frisse neus halen en staart een beetje naar de lucht,
+      er komt een jongen naar je toe
+    output: 02000000
+    position: {x: 160, y: 10}
+    userData: 
+    speaker: 
+  - id: 2
+    dialogueEntry: Buiten
+    dialogue: Wat een chille avond zo, de warme zomerlucht
+    output: 03000000
+    position: {x: 310, y: 10}
+    userData: 
+    speaker: Robbin
+  - id: 3
+    dialogueEntry: Buiten
+    dialogue: Helemaal mee eens. Ik ben Robbin en jij bent?
+    output: 04000000
+    position: {x: 460, y: 10}
+    userData: 
+    speaker: Robbin
+  - id: 4
+    dialogueEntry: Buiten
+    dialogue: Nou niemand bijzonders, gewoon een vriendin van Bas
+    output: 05000000
+    position: {x: 610, y: 10}
+    userData: 
+    speaker: Susanne
+  - id: 5
+    dialogueEntry: Buiten
+    dialogue: Als ik jou zo zie ben je best een bijzonder meisje hoor
+    output: 06000000
+    position: {x: 760, y: 10}
+    userData: 
+    speaker: Robbin
+  - id: 6
+    dialogueEntry: Buiten
+    dialogue: Nou dat valt best mee hoor
+    output: 07000000
+    position: {x: 910, y: 10}
+    userData: 
+    speaker: Susanne
+  - id: 7
+    dialogueEntry: Buiten
+    dialogue: Maar heb je zin om met een drankje even op de bank te ploffen?
+    output: 08000000
+    position: {x: 1060, y: 10}
+    userData: 
+    speaker: Robbin
+  - id: 8
+    dialogueEntry: Buiten
+    dialogue: Alleen als je beloofd om niet meer van zulke complimenten te geven
+    output: 0900000008000000
+    position: {x: 1210, y: 10}
+    userData: 
+    speaker: Susanne
+  - id: 9
+    dialogueEntry: Buiten
+    dialogue: Je loopt samen met Robbin naar de bank
+    output: 
+    position: {x: 1360, y: 10}
+    userData: 
+    speaker: 

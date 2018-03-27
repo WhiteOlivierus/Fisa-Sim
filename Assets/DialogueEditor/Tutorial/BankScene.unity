@@ -327,6 +327,101 @@ Prefab:
       propertyPath: m_AnchorMax.y
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 224628019603582060, guid: b2900900e7317a24d97e7226b66e7d97,
+        type: 2}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224628019603582060, guid: b2900900e7317a24d97e7226b66e7d97,
+        type: 2}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224628019603582060, guid: b2900900e7317a24d97e7226b66e7d97,
+        type: 2}
+      propertyPath: m_AnchoredPosition.y
+      value: -70
+      objectReference: {fileID: 0}
+    - target: {fileID: 224236515391258116, guid: b2900900e7317a24d97e7226b66e7d97,
+        type: 2}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224236515391258116, guid: b2900900e7317a24d97e7226b66e7d97,
+        type: 2}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224236515391258116, guid: b2900900e7317a24d97e7226b66e7d97,
+        type: 2}
+      propertyPath: m_AnchoredPosition.x
+      value: 250
+      objectReference: {fileID: 0}
+    - target: {fileID: 224236515391258116, guid: b2900900e7317a24d97e7226b66e7d97,
+        type: 2}
+      propertyPath: m_AnchoredPosition.y
+      value: -70
+      objectReference: {fileID: 0}
+    - target: {fileID: 224696281356137746, guid: b2900900e7317a24d97e7226b66e7d97,
+        type: 2}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224696281356137746, guid: b2900900e7317a24d97e7226b66e7d97,
+        type: 2}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224696281356137746, guid: b2900900e7317a24d97e7226b66e7d97,
+        type: 2}
+      propertyPath: m_AnchoredPosition.x
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 224696281356137746, guid: b2900900e7317a24d97e7226b66e7d97,
+        type: 2}
+      propertyPath: m_AnchoredPosition.y
+      value: -70
+      objectReference: {fileID: 0}
+    - target: {fileID: 224525935631291512, guid: b2900900e7317a24d97e7226b66e7d97,
+        type: 2}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224525935631291512, guid: b2900900e7317a24d97e7226b66e7d97,
+        type: 2}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224525935631291512, guid: b2900900e7317a24d97e7226b66e7d97,
+        type: 2}
+      propertyPath: m_AnchoredPosition.x
+      value: 750
+      objectReference: {fileID: 0}
+    - target: {fileID: 224525935631291512, guid: b2900900e7317a24d97e7226b66e7d97,
+        type: 2}
+      propertyPath: m_AnchoredPosition.y
+      value: -70
+      objectReference: {fileID: 0}
+    - target: {fileID: 224069451819390804, guid: b2900900e7317a24d97e7226b66e7d97,
+        type: 2}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224069451819390804, guid: b2900900e7317a24d97e7226b66e7d97,
+        type: 2}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224069451819390804, guid: b2900900e7317a24d97e7226b66e7d97,
+        type: 2}
+      propertyPath: m_AnchoredPosition.x
+      value: 1000
+      objectReference: {fileID: 0}
+    - target: {fileID: 224069451819390804, guid: b2900900e7317a24d97e7226b66e7d97,
+        type: 2}
+      propertyPath: m_AnchoredPosition.y
+      value: -70
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: b2900900e7317a24d97e7226b66e7d97, type: 2}
   m_IsPrefabParent: 0
@@ -556,8 +651,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23f5fa7c85ffce94f9c5ac24d538090f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dialogueFile: {fileID: 11400000, guid: 4e9433312ca069740be5885ad0ce3803, type: 2}
-  diagloguePart: Bank
+  dialogueFile: {fileID: 11400000, guid: 8d013bff2af6a1d4a8faabac82cc3597, type: 2}
+  diagloguePart: Intro
   Dc: {fileID: 1232181716}
   Vc: {fileID: 1278345529}
   Sc: {fileID: 2146929378}

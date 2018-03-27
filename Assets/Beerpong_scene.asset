@@ -1,0 +1,443 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 740e3a72aec82c147ba72d7ab4df09ee, type: 3}
+  m_Name: Beerpong_scene
+  m_EditorClassIdentifier: 
+  entries:
+  - id: Beerpong bank keuze 1 en 2
+    maxLineId: 23
+    speakers:
+    - Robbin
+    - Susanne
+    - Rebecca
+    - Bas
+  - id: Beerpong bank keuze 3 en 4
+    maxLineId: 34
+    speakers:
+    - Robbin
+    - Susanne
+    - Rebecca
+    - Bas
+  lines:
+  - id: 0
+    dialogueEntry: Beerpong bank keuze 1 en 2
+    dialogue: 
+    output: 01000000
+    position: {x: 10, y: 10}
+    userData: 
+    speaker: 
+  - id: 1
+    dialogueEntry: Beerpong bank keuze 1 en 2
+    dialogue: Jullie lopen naar de beerpong tafel
+    output: 02000000
+    position: {x: 160, y: 10}
+    userData: 
+    speaker: 
+  - id: 2
+    dialogueEntry: Beerpong bank keuze 1 en 2
+    dialogue: Zo ik ga samen met Bas spelen, dus nu voor jou nog een partner
+    output: 03000000
+    position: {x: 310, y: 10}
+    userData: 
+    speaker: Rebecca
+  - id: 3
+    dialogueEntry: Beerpong bank keuze 1 en 2
+    dialogue: Je ziet hoe Rebecca en Bas leuk samen staan en je twijfelt of je wilt
+      spelen met Robbin of Rebecca
+    output: 0400000005000000
+    position: {x: 460, y: 10}
+    userData: 
+    speaker: 
+  - id: 4
+    dialogueEntry: Beerpong bank keuze 1 en 2
+    dialogue: Robbin
+    output: 06000000
+    position: {x: 610, y: 10}
+    userData: 
+    speaker: 
+  - id: 5
+    dialogueEntry: Beerpong bank keuze 1 en 2
+    dialogue: Rebecca
+    output: 07000000
+    position: {x: 608, y: 299}
+    userData: 
+    speaker: 
+  - id: 6
+    dialogueEntry: Beerpong bank keuze 1 en 2
+    dialogue: Oh hey sorry van zo net
+    output: 08000000
+    position: {x: 760, y: 10}
+    userData: 
+    speaker: Robbin
+  - id: 7
+    dialogueEntry: Beerpong bank keuze 1 en 2
+    dialogue: Rebecca ik wil wel samen met jou dan hoor, dan laten we de jongens eens
+      zien wat voor girlpower we hebben
+    output: 0a000000
+    position: {x: 758, y: 299}
+    userData: 
+    speaker: Susanne
+  - id: 8
+    dialogueEntry: Beerpong bank keuze 1 en 2
+    dialogue: Uhm... Excuses aanvaard, maar niet nog een keer zoiets doen hoor
+    output: 09000000
+    position: {x: 910, y: 10}
+    userData: 
+    speaker: Susanne
+  - id: 9
+    dialogueEntry: Beerpong bank keuze 1 en 2
+    dialogue: Ik snap het, maar nu gaan we deze wedstrijd winnen
+    output: 10000000
+    position: {x: 1059, y: 10}
+    userData: 
+    speaker: Robbin
+  - id: 10
+    dialogueEntry: Beerpong bank keuze 1 en 2
+    dialogue: Hmph oke dan, voor deze keer wel
+    output: 0b000000
+    position: {x: 908, y: 299}
+    userData: 
+    speaker: Rebecca
+  - id: 11
+    dialogueEntry: Beerpong bank keuze 1 en 2
+    dialogue: Je ziet hoe Rebecca toch een beetje telleurgesteld kijkt
+    output: 0c000000
+    position: {x: 1058, y: 299}
+    userData: 
+    speaker: 
+  - id: 12
+    dialogueEntry: Beerpong bank keuze 1 en 2
+    dialogue: Tijdens de beerpong wedstrijd lukt het jullie allebei niet echt om wat
+      te raken, allebei gooien jullie er eentje raak. Jullie verliezen en hebbenn
+      beide behoorlijk wat drank op nu
+    output: 0d000000
+    position: {x: 1208, y: 299}
+    userData: 
+    speaker: 
+  - id: 13
+    dialogueEntry: Beerpong bank keuze 1 en 2
+    dialogue: We hadden meer girlpower nodig denk ik
+    output: 0e000000
+    position: {x: 1358, y: 299}
+    userData: 
+    speaker: Rebecca
+  - id: 14
+    dialogueEntry: Beerpong bank keuze 1 en 2
+    dialogue: Ja misschien wel
+    output: 0f000000
+    position: {x: 1508, y: 299}
+    userData: 
+    speaker: Susanne
+  - id: 15
+    dialogueEntry: Beerpong bank keuze 1 en 2
+    dialogue: Je merkt dat je een beetje teveel op hebt en gaat naar buiten om wat
+      frisse lucht te krijgen
+    output: 
+    position: {x: 1658, y: 299}
+    userData: 
+    speaker: 
+  - id: 16
+    dialogueEntry: Beerpong bank keuze 1 en 2
+    dialogue: "De wedstrijd is vollop bezig, er staat aan beide kanten nog \xE9\xE9n
+      bekertje. Jij bent aan de beurt, maar twijfeld of je raak of mis moet gooien
+      om misschien te zien dat Bas en Rebecca dan gaan zoenen"
+    output: 1100000012000000
+    position: {x: 1209, y: 10}
+    userData: 
+    speaker: 
+  - id: 17
+    dialogueEntry: Beerpong bank keuze 1 en 2
+    dialogue: Je gooit raak
+    output: 13000000
+    position: {x: 1359, y: 10}
+    userData: 
+    speaker: 
+  - id: 18
+    dialogueEntry: Beerpong bank keuze 1 en 2
+    dialogue: Je gooit mis
+    output: 15000000
+    position: {x: 1359, y: 99}
+    userData: 
+    speaker: 
+  - id: 19
+    dialogueEntry: Beerpong bank keuze 1 en 2
+    dialogue: 'Robbin geeft je direct een knuffel en zegt: "lekker gedaan hoor'
+    output: 14000000
+    position: {x: 1509, y: 10}
+    userData: 
+    speaker: 
+  - id: 20
+    dialogueEntry: Beerpong bank keuze 1 en 2
+    dialogue: Je merkt dat je toch behoorlijk wat drank op hebt en gaat naar buiten
+      voor wat frisse lucht
+    output: 
+    position: {x: 1659, y: 10}
+    userData: 
+    speaker: 
+  - id: 21
+    dialogueEntry: Beerpong bank keuze 1 en 2
+    dialogue: Bas gooit hem er perfect in en ze winnen, Rebecca pakt Bas en zoent
+      hem waar iedereen bij staat
+    output: 16000000
+    position: {x: 1509, y: 99}
+    userData: 
+    speaker: 
+  - id: 22
+    dialogueEntry: Beerpong bank keuze 1 en 2
+    dialogue: Je merkt dat je een beetje veel drank op hebt en gaat naar buiten voor
+      wat frisse lucht
+    output: 
+    position: {x: 1659, y: 99}
+    userData: 
+    speaker: 
+  - id: 0
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: 
+    output: 01000000
+    position: {x: 10, y: 10}
+    userData: 
+    speaker: 
+  - id: 1
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: Jullie lopen naar de beerpong tafel
+    output: 02000000
+    position: {x: 160, y: 10}
+    userData: 
+    speaker: 
+  - id: 2
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: Zo ik ga samen met Bas spelen, dus nu voor jou nog een partner
+    output: 03000000
+    position: {x: 310, y: 10}
+    userData: 
+    speaker: Rebecca
+  - id: 3
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: Je ziet hoe Rebecca en Bas leuk samen staan en je twijfelt of je wilt
+      spelen met Robbin of Rebecca
+    output: 040000000c000000
+    position: {x: 460, y: 10}
+    userData: 
+    speaker: 
+  - id: 4
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: Robbin
+    output: 05000000
+    position: {x: 610, y: 10}
+    userData: 
+    speaker: 
+  - id: 5
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: Hey Susanne, laten we ze is laten zien hoe je dit speelt
+    output: 06000000
+    position: {x: 760, y: 10}
+    userData: 
+    speaker: Robbin
+  - id: 6
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: Helemaal mee eens, we gaan gewoon winnen
+    output: 07000000
+    position: {x: 910, y: 10}
+    userData: 
+    speaker: Susanne
+  - id: 7
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: Top!
+    output: 08000000
+    position: {x: 1060, y: 10}
+    userData: 
+    speaker: Robbin
+  - id: 8
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: "De wedstrijd is vollop bezig, er staat aan beide kanten nog \xE9\xE9n
+      bekertje. Jij bent aan de beurt, maar twijfeld of je raak of mis moet gooien
+      om misschien te zien dat Bas en Rebecca gaan zoenen dan"
+    output: 090000000d000000
+    position: {x: 1210, y: 10}
+    userData: 
+    speaker: 
+  - id: 9
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: Je gooit raak
+    output: 0a000000
+    position: {x: 1360, y: 10}
+    userData: 
+    speaker: 
+  - id: 10
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: Robbin geeft je direct een knuffel, kijkt je daarna aan en probeert
+      je te zoenen wat doe je?
+    output: 1700000018000000
+    position: {x: 1510, y: 10}
+    userData: 
+    speaker: 
+  - id: 11
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: Je merkt dat je toch behoorlijk wat drank op hebt en gaat naar buiten
+      voor wat frisse lucht
+    output: 
+    position: {x: 1987, y: -59}
+    userData: 
+    speaker: 
+  - id: 12
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: Rebecca
+    output: 10000000
+    position: {x: 611, y: 266}
+    userData: 
+    speaker: 
+  - id: 13
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: Je gooit mis
+    output: 0e000000
+    position: {x: 1359, y: 122}
+    userData: 
+    speaker: 
+  - id: 14
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: Bas gooit hem er perfect in en ze winnen, Rebecca pakt bas en zoent
+      hem waar iedereen bij staat. Robbin loopt op je af en probeert je ook te zoenen
+      wat doe je?
+    output: 190000001b000000
+    position: {x: 1509, y: 122}
+    userData: 
+    speaker: 
+  - id: 15
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: Je merkt dat je een beetje veel drank op hebt en gaat naar buiten voor
+      wat frisse lucht
+    output: 
+    position: {x: 1989, y: 119}
+    userData: 
+    speaker: 
+  - id: 16
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: Rebecca ik wil wel samen met jou dan hoor, dan laten we de jongens eens
+      zien wat voor girlpower we hebben
+    output: 11000000
+    position: {x: 761, y: 266}
+    userData: 
+    speaker: Susanne
+  - id: 17
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: Hmph oke dan, voor deze  keer wel
+    output: 12000000
+    position: {x: 911, y: 266}
+    userData: 
+    speaker: Rebecca
+  - id: 18
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: Je ziet hoe Rebecca toch een beetje teleurgesteld kijkt
+    output: 13000000
+    position: {x: 1061, y: 266}
+    userData: 
+    speaker: 
+  - id: 19
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: Tijdens de beerpong wedstrijd lukt het jullie allebei niet echt om wat
+      te raken, allebei gooien jullie er eentje raak. Jullie verliezen en hebben beide
+      behoorlijk wat drank op nu
+    output: 14000000
+    position: {x: 1211, y: 266}
+    userData: 
+    speaker: 
+  - id: 20
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: We hadden meer girlpower nodig denk ik
+    output: 15000000
+    position: {x: 1360, y: 265}
+    userData: 
+    speaker: Rebecca
+  - id: 21
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: Ja misschien wel
+    output: 16000000
+    position: {x: 1516, y: 265}
+    userData: 
+    speaker: Susanne
+  - id: 22
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: Je merkt dat je een beetje teveel drank op hebt en gaat naar buiten
+      om wat frisse lucht te krijgen
+    output: 
+    position: {x: 1663, y: 265}
+    userData: 
+    speaker: 
+  - id: 23
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: Duw hem weg van je
+    output: 1c000000
+    position: {x: 1666, y: -60}
+    userData: 
+    speaker: 
+  - id: 24
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: Zoen hem terug
+    output: 1e000000
+    position: {x: 1665, y: 10}
+    userData: 
+    speaker: 
+  - id: 25
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: Duw hem weg
+    output: 1f000000
+    position: {x: 1664, y: 122}
+    userData: 
+    speaker: 
+  - id: 27
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: Zoen hem terug
+    output: 21000000
+    position: {x: 1664, y: 191}
+    userData: 
+    speaker: 
+  - id: 28
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: Wat doe je... blijf van me af
+    output: 1d000000
+    position: {x: 1773, y: -59}
+    userData: 
+    speaker: Susanne
+  - id: 29
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: Je loopt weg
+    output: 0b000000
+    position: {x: 1879, y: -59}
+    userData: 
+    speaker: 
+  - id: 30
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: Hey ik ga even naar buiten kijk maar wat jij doet
+    output: 
+    position: {x: 1774, y: 10}
+    userData: 
+    speaker: Susanne
+  - id: 31
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: Wat doe je... blijf van me af
+    output: 20000000
+    position: {x: 1777, y: 121}
+    userData: 
+    speaker: Susanne
+  - id: 32
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: Je loopt weg
+    output: 0f000000
+    position: {x: 1884, y: 119}
+    userData: 
+    speaker: 
+  - id: 33
+    dialogueEntry: Beerpong bank keuze 3 en 4
+    dialogue: Hey ik ga even naar buiten kijk maar wat je doet
+    output: 
+    position: {x: 1776, y: 191}
+    userData: 
+    speaker: Susanne
