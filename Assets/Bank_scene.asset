@@ -13,7 +13,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   entries:
   - id: Bank
+<<<<<<< HEAD
     maxLineId: 34
+=======
+    maxLineId: 14
+>>>>>>> 19fd6b2ddd83d267f9a1080280b1e06be770d2ba
     speakers:
     - Robbin
     - Susanne
@@ -31,9 +35,9 @@ MonoBehaviour:
     dialogueEntry: Bank
     dialogue: Je loopt richting de bank en gaat zitten, er komt een jongen op je af
     output: 02000000
-    position: {x: 139, y: 10}
+    position: {x: 147, y: 10}
     userData: image:0;sec:1;audio:1
-    speaker: 
+    speaker: Robbin
   - id: 2
     dialogueEntry: Bank
     dialogue: Hey wil je wat drinken?
