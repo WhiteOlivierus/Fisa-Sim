@@ -1,0 +1,248 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 740e3a72aec82c147ba72d7ab4df09ee, type: 3}
+  m_Name: Eind_scene
+  m_EditorClassIdentifier: 
+  entries:
+  - id: Eind beerpong keuze 1
+    maxLineId: 17
+    speakers:
+    - Susanne
+    - Robbin
+    - Rebecca
+    - Bas
+  - id: Eind beerpong keuze 2
+    maxLineId: 12
+    speakers:
+    - Susanne
+    - Robbin
+    - Rebecca
+    - Bas
+  lines:
+  - id: 0
+    dialogueEntry: Eind beerpong keuze 1
+    dialogue: 
+    output: 01000000
+    position: {x: 10, y: 10}
+    userData: 
+    speaker: 
+  - id: 1
+    dialogueEntry: Eind beerpong keuze 1
+    dialogue: Je staat buiten om een beetje frisse lucht te krijgen
+    output: 02000000
+    position: {x: 160, y: 10}
+    userData: 
+    speaker: 
+  - id: 0
+    dialogueEntry: Eind beerpong keuze 2
+    dialogue: 
+    output: 01000000
+    position: {x: 10, y: 10}
+    userData: 
+    speaker: 
+  - id: 1
+    dialogueEntry: Eind beerpong keuze 2
+    dialogue: Je staat buiten om wat frisse lucht te krijgen, Robbin is achter je
+      aan gelopen en staat er ook bij
+    output: 02000000
+    position: {x: 160, y: 10}
+    userData: 
+    speaker: 
+  - id: 2
+    dialogueEntry: Eind beerpong keuze 1
+    dialogue: Robbin komt eraan
+    output: 03000000
+    position: {x: 310, y: 10}
+    userData: 
+    speaker: 
+  - id: 3
+    dialogueEntry: Eind beerpong keuze 1
+    dialogue: Sorry voor daarnet, ik hoop dat ik je niet teveel heb afgeschrikt, ik
+      vind je gewoon best wel leuk enzo en ik wist niet echt hoe jij dat voelde. Maar
+      kennelijk niet het zelfde dus...
+    output: 04000000
+    position: {x: 460, y: 10}
+    userData: 
+    speaker: Robbin
+  - id: 4
+    dialogueEntry: Eind beerpong keuze 1
+    dialogue: Oh ik had niet door dat je er zo over dacht, maar alsnog ik weet niet
+      of ik het anders wel zou willen...
+    output: 05000000
+    position: {x: 610, y: 10}
+    userData: 
+    speaker: Susanne
+  - id: 5
+    dialogueEntry: Eind beerpong keuze 1
+    dialogue: Je praat nog een tijdje met Robbin over van alles en het begint al later
+      te worden
+    output: 06000000
+    position: {x: 760, y: 10}
+    userData: 
+    speaker: 
+  - id: 6
+    dialogueEntry: Eind beerpong keuze 1
+    dialogue: '*annotation* foto''s van arm om je heen leggen en geen tekst bij vorige
+      dialogue'
+    output: 07000000
+    position: {x: 910, y: 10}
+    userData: 
+    speaker: 
+  - id: 7
+    dialogueEntry: Eind beerpong keuze 1
+    dialogue: Je begint best wel close te raken met Robbin en hij begint je te zoenen
+    output: 08000000
+    position: {x: 1060, y: 10}
+    userData: 
+    speaker: 
+  - id: 8
+    dialogueEntry: Eind beerpong keuze 1
+    dialogue: Robbin begint je aan te raken, wat doe je?
+    output: 090000000a000000
+    position: {x: 1210, y: 10}
+    userData: 
+    speaker: 
+  - id: 9
+    dialogueEntry: Eind beerpong keuze 1
+    dialogue: Probeer hem van je af te duwen
+    output: 0c000000
+    position: {x: 1360, y: 10}
+    userData: 
+    speaker: 
+  - id: 10
+    dialogueEntry: Eind beerpong keuze 1
+    dialogue: Je gaat er in mee
+    output: 0b000000
+    position: {x: 1359, y: 93}
+    userData: 
+    speaker: 
+  - id: 11
+    dialogueEntry: Eind beerpong keuze 1
+    dialogue: Je laat Robbin zijn gang gaan, jullie belanden samen in de bosjes naast
+      het huis waar een parkje begint
+    output: 0e000000
+    position: {x: 1509, y: 93}
+    userData: 
+    speaker: 
+  - id: 12
+    dialogueEntry: Eind beerpong keuze 1
+    dialogue: Je hebt de kracht niet om hem van je af te krijgen
+    output: 0d000000
+    position: {x: 1510, y: 10}
+    userData: 
+    speaker: 
+  - id: 13
+    dialogueEntry: Eind beerpong keuze 1
+    dialogue: '*annotation* Zwarte fade out*'
+    output: 0f000000
+    position: {x: 1660, y: 10}
+    userData: 
+    speaker: 
+  - id: 14
+    dialogueEntry: Eind beerpong keuze 1
+    dialogue: Er is niemand die het ziet en jullie gaan door met jullie ding en na
+      een tijdje wordt alles zwart....
+    output: 
+    position: {x: 1660, y: 93}
+    userData: 
+    speaker: 
+  - id: 15
+    dialogueEntry: Eind beerpong keuze 1
+    dialogue: Ik voelde een hoop onmacht, mijn lichaam verstijfde na een korte tijd.
+      Ik voelde zijn handen over mijn lichaam, hij duwde me door de bosjes aan het
+      einde van de tuin waar een soort parkje begon
+    output: 10000000
+    position: {x: 1810, y: 10}
+    userData: 
+    speaker: 
+  - id: 16
+    dialogueEntry: Eind beerpong keuze 1
+    dialogue: Niemand die het zag of merkte, mijn stem kon niks doen. Mijn lichaam
+      gaf zich over en alles werd zwart voor mijn ogen....
+    output: 
+    position: {x: 1960, y: 10}
+    userData: 
+    speaker: 
+  - id: 2
+    dialogueEntry: Eind beerpong keuze 2
+    dialogue: Robbin duwt je enigzins ruw tegen de muur aan en begint je te zoenen
+    output: 03000000
+    position: {x: 310, y: 10}
+    userData: 
+    speaker: 
+  - id: 3
+    dialogueEntry: Eind beerpong keuze 2
+    dialogue: Hij begint je aan te raken, wat doe je?
+    output: 0400000005000000
+    position: {x: 460, y: 10}
+    userData: 
+    speaker: 
+  - id: 4
+    dialogueEntry: Eind beerpong keuze 2
+    dialogue: Je probeert hem van je af te duwen
+    output: 06000000
+    position: {x: 608, y: 10}
+    userData: 
+    speaker: 
+  - id: 5
+    dialogueEntry: Eind beerpong keuze 2
+    dialogue: Je gaat er in mee
+    output: 08000000
+    position: {x: 606, y: 128}
+    userData: 
+    speaker: 
+  - id: 6
+    dialogueEntry: Eind beerpong keuze 2
+    dialogue: Je hebt de kracht niet om hem van je af te krijgen
+    output: 07000000
+    position: {x: 765, y: 10}
+    userData: 
+    speaker: 
+  - id: 7
+    dialogueEntry: Eind beerpong keuze 2
+    dialogue: '*annotation* Zwarte fade out*'
+    output: 0a000000
+    position: {x: 915, y: 10}
+    userData: 
+    speaker: 
+  - id: 8
+    dialogueEntry: Eind beerpong keuze 2
+    dialogue: Je laat Robbin zijn gang gaan, jullie belanden samen in de bosjes naast
+      het huis waar een parkje begint
+    output: 09000000
+    position: {x: 756, y: 128}
+    userData: 
+    speaker: 
+  - id: 9
+    dialogueEntry: Eind beerpong keuze 2
+    dialogue: Er is niemand die het ziet en jullie gaan door met jullie ding en na
+      een tijdje wordt alles zwart....
+    output: 
+    position: {x: 906, y: 128}
+    userData: 
+    speaker: 
+  - id: 10
+    dialogueEntry: Eind beerpong keuze 2
+    dialogue: Ik voelde een hoop onmacht, mijn lichaam verstijfde na een korte tijd.
+      Ik voelde zijn handen over mijn lichaam, hij duwde me door de bosjes aan het
+      einde van de tuin waar een soort parkje begon
+    output: 0b000000
+    position: {x: 1065, y: 10}
+    userData: 
+    speaker: 
+  - id: 11
+    dialogueEntry: Eind beerpong keuze 2
+    dialogue: Niemand die het zag of merkte, mijn stem kon niks doen. Mijn lichaam
+      gaf zich over en alles werd zwart voor mijn ogen....
+    output: 
+    position: {x: 1215, y: 10}
+    userData: 
+    speaker: 

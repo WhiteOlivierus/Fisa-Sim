@@ -1,0 +1,435 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 740e3a72aec82c147ba72d7ab4df09ee, type: 3}
+  m_Name: Bank_scene 1
+  m_EditorClassIdentifier: 
+  entries:
+  - id: Bank
+    maxLineId: 44
+    speakers:
+    - Robbin
+    - Susanne
+    - Bas
+    - Rebecca
+  - id: BuitenToBank
+    maxLineId: 24
+    speakers:
+    - Robbin
+    - Susanne
+    - Bas
+    - Rebecca
+  lines:
+  - id: 0
+    dialogueEntry: Bank
+    dialogue: 
+    output: 01000000
+    position: {x: 10, y: 10}
+    userData: 
+    speaker: 
+  - id: 1
+    dialogueEntry: Bank
+    dialogue: Je loopt richting de bank en gaat zitten, er komt een jongen op je af
+    output: 02000000
+    position: {x: 139, y: 10}
+    userData: image:0;sec:1;audio:1
+    speaker: 
+  - id: 2
+    dialogueEntry: Bank
+    dialogue: Hey wil je wat drinken?
+    output: 030000000f000000
+    position: {x: 287, y: 10}
+    userData: image:1;sec:1;audio:0
+    speaker: Robbin
+  - id: 3
+    dialogueEntry: Bank
+    dialogue: Ja
+    output: 11000000
+    position: {x: 437, y: 10}
+    userData: image:2;sec:1;audio:3
+    speaker: Susanne
+  - id: 5
+    dialogueEntry: Bank
+    dialogue: Dankje
+    output: 06000000
+    position: {x: 734, y: 10}
+    userData: image:4;sec:1
+    speaker: Susanne
+  - id: 6
+    dialogueEntry: Bank
+    dialogue: Ik ben Robbin, jij?
+    output: 07000000
+    position: {x: 887, y: 10}
+    userData: image:5;sec:1
+    speaker: Robbin
+  - id: 7
+    dialogueEntry: Bank
+    dialogue: Oh ik ben Suzanne, een vriendin van Bas
+    output: 12000000
+    position: {x: 1037, y: 10}
+    userData: image:6;sec:2
+    speaker: Susanne
+  - id: 15
+    dialogueEntry: Bank
+    dialogue: Nee
+    output: 10000000
+    position: {x: 435, y: 108}
+    userData: 
+    speaker: Susanne
+  - id: 16
+    dialogueEntry: Bank
+    dialogue: "Is het ok\xE9 als ik bij je zit"
+    output: 06000000
+    position: {x: 585, y: 108}
+    userData: 
+    speaker: Robbin
+  - id: 17
+    dialogueEntry: Bank
+    dialogue: Een drankje voor de dame
+    output: 05000000
+    position: {x: 587, y: 10}
+    userData: 
+    speaker: Robbin
+  - id: 18
+    dialogueEntry: Bank
+    dialogue: Oh natuurlijk een meisje dat ik niet ken en dat Bas wel kent, kon niet
+      missen dat jij het was. Bas praat van tijd tot tijd wel over je
+    output: 13000000
+    position: {x: 1187, y: 10}
+    userData: 
+    speaker: Robbin
+  - id: 19
+    dialogueEntry: Bank
+    dialogue: Dus waarom ben jij niet aan het feesten?
+    output: 14000000
+    position: {x: 1337, y: 10}
+    userData: 
+    speaker: Robbin
+  - id: 20
+    dialogueEntry: Bank
+    dialogue: Ik ben niet echt een feest persoon
+    output: 15000000
+    position: {x: 1487, y: 10}
+    userData: 
+    speaker: Susanne
+  - id: 21
+    dialogueEntry: Bank
+    dialogue: Achja, feestjes zijn ook niet alles en volgens mij ben je best een leuke
+      meid
+    output: 16000000
+    position: {x: 1637, y: 10}
+    userData: 
+    speaker: Robbin
+  - id: 22
+    dialogueEntry: Bank
+    dialogue: Robbin legt een arm om je heen wat doe je?
+    output: 1a0000001b0000001c0000001d000000
+    position: {x: 1787, y: 10}
+    userData: 
+    speaker: 
+  - id: 26
+    dialogueEntry: Bank
+    dialogue: Loop weg
+    output: 1e000000
+    position: {x: 1937, y: 10}
+    userData: 
+    speaker: 
+  - id: 27
+    dialogueEntry: Bank
+    dialogue: Haal zijn arm weg
+    output: 1f000000
+    position: {x: 1937, y: 99}
+    userData: 
+    speaker: 
+  - id: 28
+    dialogueEntry: Bank
+    dialogue: Vind het oke
+    output: 21000000
+    position: {x: 1937, y: 202}
+    userData: 
+    speaker: 
+  - id: 29
+    dialogueEntry: Bank
+    dialogue: Kruip dichter bij hem
+    output: 20000000
+    position: {x: 1937, y: 298}
+    userData: 
+    speaker: 
+  - id: 30
+    dialogueEntry: Bank
+    dialogue: Wat doe je, ik ben je vriendin niet ofzo
+    output: 27000000
+    position: {x: 2087, y: 10}
+    userData: 
+    speaker: Susanne
+  - id: 31
+    dialogueEntry: Bank
+    dialogue: Doe maar niet, ik houd niet echt van zulke dingen
+    output: 24000000
+    position: {x: 2087, y: 99}
+    userData: 
+    speaker: Susanne
+  - id: 32
+    dialogueEntry: Bank
+    dialogue: Weetje, je bent best cute
+    output: 22000000
+    position: {x: 2086, y: 300}
+    userData: 
+    speaker: Susanne
+  - id: 33
+    dialogueEntry: Bank
+    dialogue: Oh hey Suus ik wil niet storen, maar we gaan beerpong spelen kom
+    output: 23000000
+    position: {x: 2087, y: 202}
+    userData: 
+    speaker: Rebecca
+  - id: 34
+    dialogueEntry: Bank
+    dialogue: Dankje
+    output: 2a000000
+    position: {x: 2236, y: 300}
+    userData: 
+    speaker: Robbin
+  - id: 35
+    dialogueEntry: Bank
+    dialogue: Oh hey Rebecca wat leuk om jou ook weer te zien, maar oke ik kom al
+      mee. Ciao Robbin
+    output: 
+    position: {x: 2237, y: 202}
+    userData: 
+    speaker: Susanne
+  - id: 36
+    dialogueEntry: Bank
+    dialogue: Oh
+    output: 25000000
+    position: {x: 2237, y: 99}
+    userData: 
+    speaker: Robbin
+  - id: 37
+    dialogueEntry: Bank
+    dialogue: Stoor ik Suus want we gaan beerpong spelen
+    output: 26000000
+    position: {x: 2387, y: 99}
+    userData: 
+    speaker: Rebecca
+  - id: 38
+    dialogueEntry: Bank
+    dialogue: Nee hoor helemaal niet, ik kom eraan
+    output: 
+    position: {x: 2537, y: 99}
+    userData: 
+    speaker: Susanne
+  - id: 39
+    dialogueEntry: Bank
+    dialogue: '*annotation* wegloop afbeeldingen *'
+    output: 28000000
+    position: {x: 2237, y: 10}
+    userData: 
+    speaker: 
+  - id: 40
+    dialogueEntry: Bank
+    dialogue: Hey Suus doe je mee met beerpong?
+    output: 29000000
+    position: {x: 2387, y: 10}
+    userData: 
+    speaker: Rebecca
+  - id: 41
+    dialogueEntry: Bank
+    dialogue: Oh hey Rebecca wat leuk om jou ook weer te zien, maar oke ik kom al
+      mee
+    output: 
+    position: {x: 2537, y: 10}
+    userData: 
+    speaker: Susanne
+  - id: 42
+    dialogueEntry: Bank
+    dialogue: Oh sorry dat ik stoor, maar we gaan beerpong spelen dus kom mee
+    output: 2b000000
+    position: {x: 2386, y: 300}
+    userData: 
+    speaker: Rebecca
+  - id: 43
+    dialogueEntry: Bank
+    dialogue: Oh geeft niet, we komen er aan
+    output: 
+    position: {x: 2536, y: 300}
+    userData: 
+    speaker: Susanne
+  - id: 0
+    dialogueEntry: BuitenToBank
+    dialogue: 
+    output: 01000000
+    position: {x: 10, y: 10}
+    userData: 
+    speaker: 
+  - id: 1
+    dialogueEntry: BuitenToBank
+    dialogue: Je gaat zitten op de bank terwijl Robbin eraan komt met een drankje
+    output: 02000000
+    position: {x: 160, y: 10}
+    userData: 
+    speaker: 
+  - id: 2
+    dialogueEntry: BuitenToBank
+    dialogue: Alsjeblieft jonge dame
+    output: 03000000
+    position: {x: 310, y: 10}
+    userData: 
+    speaker: Robbin
+  - id: 3
+    dialogueEntry: BuitenToBank
+    dialogue: Oh het is Susanne
+    output: 04000000
+    position: {x: 460, y: 10}
+    userData: 
+    speaker: Susanne
+  - id: 4
+    dialogueEntry: BuitenToBank
+    dialogue: Oh natuurlijk een meisje dat ik niet ken en Bas wel kent, kon niet missen
+      dat jij het was. Bas praat van tijd tot tijd wel over je
+    output: 05000000
+    position: {x: 610, y: 10}
+    userData: 
+    speaker: Robbin
+  - id: 5
+    dialogueEntry: BuitenToBank
+    dialogue: Robbin legt een arm om je heen wat doe je?
+    output: 06000000070000000800000009000000
+    position: {x: 760, y: 10}
+    userData: 
+    speaker: 
+  - id: 6
+    dialogueEntry: BuitenToBank
+    dialogue: Loop weg
+    output: 12000000
+    position: {x: 910, y: 10}
+    userData: 
+    speaker: 
+  - id: 7
+    dialogueEntry: BuitenToBank
+    dialogue: Haal zijn arm weg
+    output: 10000000
+    position: {x: 912, y: 83}
+    userData: 
+    speaker: 
+  - id: 8
+    dialogueEntry: BuitenToBank
+    dialogue: Vind het oke
+    output: 0e000000
+    position: {x: 912, y: 155}
+    userData: 
+    speaker: 
+  - id: 9
+    dialogueEntry: BuitenToBank
+    dialogue: Kruip dichter bij hem
+    output: 0a000000
+    position: {x: 911, y: 225}
+    userData: 
+    speaker: 
+  - id: 10
+    dialogueEntry: BuitenToBank
+    dialogue: Weetje, je bent best cute
+    output: 0b000000
+    position: {x: 1061, y: 225}
+    userData: 
+    speaker: Susanne
+  - id: 11
+    dialogueEntry: BuitenToBank
+    dialogue: Dankje
+    output: 0c000000
+    position: {x: 1211, y: 225}
+    userData: 
+    speaker: Robbin
+  - id: 12
+    dialogueEntry: BuitenToBank
+    dialogue: Oh sorry dat ik stoor, maar we gaan beerpong spelen dus kom mee
+    output: 0d000000
+    position: {x: 1361, y: 225}
+    userData: 
+    speaker: Rebecca
+  - id: 13
+    dialogueEntry: BuitenToBank
+    dialogue: Oh geeft niet we komen er aan
+    output: 
+    position: {x: 1511, y: 226}
+    userData: 
+    speaker: Susanne
+  - id: 14
+    dialogueEntry: BuitenToBank
+    dialogue: Oh hey Suus ik wil niet storen, maar we gaan beerpong spelen kom
+    output: 0f000000
+    position: {x: 1062, y: 155}
+    userData: 
+    speaker: Rebecca
+  - id: 15
+    dialogueEntry: BuitenToBank
+    dialogue: Oh hey Rebecca wat leuk om jou ook weer te zien, maar oke ik kom al
+      mee. Ciao Robbin
+    output: 
+    position: {x: 1212, y: 155}
+    userData: 
+    speaker: Susanne
+  - id: 16
+    dialogueEntry: BuitenToBank
+    dialogue: Doe maar niet, ik houd niet echt van zulke dingen
+    output: 11000000
+    position: {x: 1062, y: 83}
+    userData: 
+    speaker: Susanne
+  - id: 17
+    dialogueEntry: BuitenToBank
+    dialogue: Oh
+    output: 15000000
+    position: {x: 1212, y: 83}
+    userData: 
+    speaker: Robbin
+  - id: 18
+    dialogueEntry: BuitenToBank
+    dialogue: Wat doe je, ik ben je vriendin niet ofzo
+    output: 13000000
+    position: {x: 1060, y: 10}
+    userData: 
+    speaker: Susanne
+  - id: 19
+    dialogueEntry: BuitenToBank
+    dialogue: '*annotation* wegloop afbeeldingen* '
+    output: 14000000
+    position: {x: 1210, y: 10}
+    userData: 
+    speaker: 
+  - id: 20
+    dialogueEntry: BuitenToBank
+    dialogue: Hey Suus doe je mee met beerpong
+    output: 16000000
+    position: {x: 1360, y: 10}
+    userData: 
+    speaker: Rebecca
+  - id: 21
+    dialogueEntry: BuitenToBank
+    dialogue: Stoor ik Suus want we gaan beerpong spelen
+    output: 17000000
+    position: {x: 1362, y: 83}
+    userData: 
+    speaker: Rebecca
+  - id: 22
+    dialogueEntry: BuitenToBank
+    dialogue: Oh hey Rebecca wat leuk om jou ook weer te zien, maar oke ik kom al
+      mee
+    output: 
+    position: {x: 1510, y: 10}
+    userData: 
+    speaker: Susanne
+  - id: 23
+    dialogueEntry: BuitenToBank
+    dialogue: Nee helemaal niet, ik kom eraan
+    output: 
+    position: {x: 1512, y: 83}
+    userData: 
+    speaker: Susanne
