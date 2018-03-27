@@ -13,7 +13,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   entries:
   - id: Bank
-    maxLineId: 13
+    maxLineId: 14
     speakers:
     - Robbin
     - Susanne
@@ -29,9 +29,9 @@ MonoBehaviour:
     dialogueEntry: Bank
     dialogue: WOW WAT EEN KUT VISSA
     output: 02000000
-    position: {x: 139, y: 10}
+    position: {x: 147, y: 10}
     userData: image:0;sec:1;audio:1
-    speaker: 
+    speaker: Robbin
   - id: 2
     dialogueEntry: Bank
     dialogue: JA ECHT HE
