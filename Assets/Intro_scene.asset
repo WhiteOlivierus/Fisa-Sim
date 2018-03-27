@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 740e3a72aec82c147ba72d7ab4df09ee, type: 3}
+  m_Name: Intro_scene
+  m_EditorClassIdentifier: 
+  entries:
+  - id: Intro
+    maxLineId: 22
+    speakers:
+    - Bas
+    - Suzanne
+    - Robbin
+    - Rebecca
+  lines:
+  - id: 0
+    dialogueEntry: Intro
+    dialogue: 
+    output: 01000000
+    position: {x: 10, y: 10}
+    userData: 
+    speaker: 
+  - id: 1
+    dialogueEntry: Intro
+    dialogue: 'Okay ik heb dus best wel veel zin in vanavond.
+
+      Bas, een van mijn beste vrienden waarmee ik op de kleuterschool heb gezeten
+      heeft me uitgenodigd voor zijn houseparty.'
+    output: 02000000
+    position: {x: 152, y: 10}
+    userData: image:0;sec:10;
+    speaker: Suzanne
+  - id: 2
+    dialogueEntry: Intro
+    dialogue: Normaal ga ik niet veel naar feestjes toe, maar deze keer kon ik geen
+      nee zeggen.
+    output: 03000000
+    position: {x: 306, y: 10}
+    userData: image:0;sec:10;
+    speaker: Suzanne
+  - id: 3
+    dialogueEntry: Intro
+    dialogue: Ik heb Bas al een tijdje alleen maar op WhatsApp kunnen spreken en mijn
+      vriendin Rebecca heeft een enorme crush op Bas en ik denk dat hij dat ook wel
+      op haar heeft, but we'll find out today.
+    output: 05000000
+    position: {x: 457, y: 10}
+    userData: image:0;sec:10;
+    speaker: Suzanne
+  - id: 5
+    dialogueEntry: Intro
+    dialogue: Ik hoop echt dat Bas me niet voor gek aan ziet als hij erachter komt
+      dat ik hem leuk vind
+    output: 06000000
+    position: {x: 607, y: 10}
+    userData: image:0;sec:10;
+    speaker: Rebecca
+  - id: 6
+    dialogueEntry: Intro
+    dialogue: Lijkt me sterk, Bas is altijd een hele lieve jongen geweest
+    output: 07000000
+    position: {x: 754, y: 13}
+    userData: image:0;
+    speaker: Suzanne
+  - id: 7
+    dialogueEntry: Intro
+    dialogue: "Ja maar toch, we kennen elkaar natuurlijk allemaal wel al een tijdje
+      h\xE8"
+    output: 08000000
+    position: {x: 899, y: 9}
+    userData: image:0;
+    speaker: Rebecca
+  - id: 8
+    dialogueEntry: Intro
+    dialogue: Ach als ik jou was zou ik me er niet druk over maken, maar we zijn er
+      dus we zullen zien
+    output: 09000000
+    position: {x: 1057, y: 10}
+    userData: image:0;
+    speaker: Suzanne
+  - id: 9
+    dialogueEntry: Intro
+    dialogue: Hey Rebecca en Suus, jullie zijn wel weer lekker langzaam he
+    output: 0a000000
+    position: {x: 1198, y: 12}
+    userData: image:0;
+    speaker: Bas
+  - id: 10
+    dialogueEntry: Intro
+    dialogue: Sorry Bas meiden blijven meiden he
+    output: 0b000000
+    position: {x: 1357, y: 10}
+    userData: image:0;
+    speaker: Rebecca
+  - id: 11
+    dialogueEntry: Intro
+    dialogue: Nou geen tijd te verspillen, kom binnen iedereen is er al.
+    output: 0c000000
+    position: {x: 1507, y: 10}
+    userData: image:0;
+    speaker: Bas
+  - id: 12
+    dialogueEntry: Intro
+    dialogue: Dus dit is jou huis Bas, niet te geloven dat ik hier nog nooit ben geweest
+    output: 0d000000
+    position: {x: 1657, y: 10}
+    userData: image:0;
+    speaker: Rebecca
+  - id: 13
+    dialogueEntry: Intro
+    dialogue: Ik geef je wel even een rondleiding, Suzanne jij vermaakt je wel he...
+    output: 13000000
+    position: {x: 1808, y: 37}
+    userData: image:0;
+    speaker: Bas
+  - id: 19
+    dialogueEntry: Intro
+    dialogue: Nou dat begint super, net binnen en nu al alleen. Nu is de vraag wat
+      zal ik eens gaan doen?
+    output: 1400000015000000
+    position: {x: 1956, y: 42}
+    userData: 
+    speaker: Suzanne
+  - id: 20
+    dialogueEntry: Intro
+    dialogue: Naar de bank
+    output: 
+    position: {x: 2106, y: 45}
+    userData: 
+    speaker: 
+  - id: 21
+    dialogueEntry: Intro
+    dialogue: Naar buiten
+    output: 
+    position: {x: 2101, y: 136}
+    userData: 
+    speaker: 
